@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="HelloWindow/HelloWindow.vcxproj" Id="90dd689e-d915-429d-bb43-4d8c303010b9" />
+</Solution>
