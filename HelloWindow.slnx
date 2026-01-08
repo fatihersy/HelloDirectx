@@ -1,7 +1,8 @@
 <Solution>
   <Configurations>
+    <BuildType Name="Debug" />
     <Platform Name="x64" />
-    <Platform Name="x86" />
   </Configurations>
+  <Project Path="HelloConstantBuffer/HelloConstantBuffer.vcxproj" Id="561422c4-6ff6-4704-8e19-4b9d8dfbc3cf" />
   <Project Path="HelloWindow/HelloWindow.vcxproj" Id="90dd689e-d915-429d-bb43-4d8c303010b9" />
 </Solution>

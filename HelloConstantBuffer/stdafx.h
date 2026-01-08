@@ -9,24 +9,20 @@
 //
 //*********************************************************
 
-#include "stdafx.h"
-#include "DXSample.h"
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently, but
+// are changed infrequently.
 
-using namespace Microsoft::WRL;
+#pragma once
 
-DXSample::DXSample(UINT width, UINT height, std::wstring name) :
-	m_width(width),
-	m_height(height),
-	m_title(name)
-{
+#include <windows.h>
 
-}
+#include <d3d12.h>
+#include <dxgi1_6.h>
+#include <D3Dcompiler.h>
+#include <DirectXMath.h>
+#include "d3dx12.h"
 
-DXSample::~DXSample()
-{
-}
-
-
-
-
-
+#include <string>
+#include <wrl.h>
+#include <shellapi.h>
