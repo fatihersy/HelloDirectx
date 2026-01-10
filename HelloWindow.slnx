@@ -4,6 +4,7 @@
     <Platform Name="x64" />
   </Configurations>
   <Project Path="HelloConstantBuffer/HelloConstantBuffer.vcxproj" Id="561422c4-6ff6-4704-8e19-4b9d8dfbc3cf" />
+  <Project Path="HelloFrameBuffering/HelloFrameBuffering.vcxproj" Id="513f1c24-777f-4550-bff7-28615e7c31e5" />
   <Project Path="HelloTexture/HelloTexture.vcxproj" Id="0e25942c-1149-4add-ae8f-bb63ad8d4fe6" />
   <Project Path="HelloWindow/HelloWindow.vcxproj" Id="90dd689e-d915-429d-bb43-4d8c303010b9" />
 </Solution>
