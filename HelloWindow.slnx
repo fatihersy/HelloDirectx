@@ -7,6 +7,7 @@
   <Project Path="HelloConstantBuffer/HelloConstantBuffer.vcxproj" Id="561422c4-6ff6-4704-8e19-4b9d8dfbc3cf" />
   <Project Path="HelloFrameBuffering/HelloFrameBuffering.vcxproj" Id="513f1c24-777f-4550-bff7-28615e7c31e5" />
   <Project Path="HelloLighting/HelloLighting.vcxproj" Id="d340d672-355f-4bb5-8f04-32b401382b78" />
+  <Project Path="HelloNormals/HelloNormals.vcxproj" Id="9211f769-0e7a-4a03-a5b1-bede39c878e5" />
   <Project Path="HelloStenciling/HelloStenciling.vcxproj" Id="a8807401-5a3a-42c3-a458-79a95fd5bb0d" />
   <Project Path="HelloTexture/HelloTexture.vcxproj" Id="0e25942c-1149-4add-ae8f-bb63ad8d4fe6" />
   <Project Path="HelloTransformations/HelloTransformations.vcxproj" Id="00c2040d-7e51-4114-8950-155801817863" />
